@@ -1304,7 +1304,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"-98"
-		"wide"			"170"
+		"wide"			"200"
 		"tall"			"480"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -1453,7 +1453,7 @@
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankPanel"
-		"xpos"			"-290"
+		"xpos"			"-300"
 		"ypos"			"174"
 		"zpos"			"-52"
 		"wide"			"500"
